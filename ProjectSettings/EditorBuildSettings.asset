@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/Snapdragon Spaces/0.11.1/Core Samples/Scenes/Main Menu/Main
+      Menu.unity
+    guid: 2b406ea90420fc841839c843c6bfc3d5
+  - enabled: 0
+    path: Assets/Samples/Snapdragon Spaces/0.11.1/Core Samples/Scenes/Anchor Sample/Anchor
+      Sample.unity
+    guid: a6e56af4472621b45b91380052443a24
+  - enabled: 0
+    path: Assets/Samples/Snapdragon Spaces/0.11.1/Core Samples/Scenes/Hand Tracking
+      Sample/Hand Tracking Sample.unity
+    guid: 7f6052019a1504ac09ac3e728b12dd65
+  - enabled: 0
+    path: Assets/Samples/Snapdragon Spaces/0.11.1/Core Samples/Scenes/Hit Testing
+      Sample/Hit Testing Sample.unity
+    guid: c583c7f614816bd489b3bcd62bf9aac0
+  - enabled: 0
+    path: Assets/Samples/Snapdragon Spaces/0.11.1/Core Samples/Scenes/Image Tracking
+      Sample/Image Tracking Sample.unity
+    guid: 61f68fcb03f5e2640b757852c008c89a
+  - enabled: 0
+    path: Assets/Samples/Snapdragon Spaces/0.11.1/Core Samples/Scenes/Plane Detection
+      Sample/Plane Detection Sample.unity
+    guid: 46111d8efce134ef38f645e0c00e1362
+  - enabled: 0
+    path: Assets/Samples/Snapdragon Spaces/0.11.1/Core Samples/Scenes/XR Interaction
+      Toolkit Sample/XR Interaction Toolkit Sample.unity
+    guid: 457c784199db14427a9e59e7acbf15a2
+  - enabled: 1
+    path: Assets/Scenes/GlobalFeatures/Global.unity
+    guid: cfb352d7f98d3bf48800dc970b7e31c5
+  - enabled: 1
+    path: Assets/Scenes/Start/Start.unity
+    guid: 6bdce89659816455b9f906fc62d19910
+  - enabled: 1
+    path: Assets/Scenes/Admin/Admin.unity
+    guid: 34666a1199db0ac42a7fc1d67cad3109
+  - enabled: 1
+    path: Assets/Scenes/Guest/Guest.unity
+    guid: 0782af267636a0d4a85633ce8aad4b1c
+  - enabled: 1
+    path: Assets/Scenes/CreateMode/CreateMode.unity
+    guid: fd4070ea88a90284f80f1fa0ae123a4a
+  - enabled: 1
+    path: Assets/Scenes/LoadAnchors/LoadAnchors.unity
+    guid: 8c0de09a78090024d96be3a90281f29d
+  - enabled: 0
+    path: Assets/Scenes/Admin2/Admin2.unity
+    guid: 3682659fb69592a4bb457cd9d88610ac
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 289448f4c89529545895791f871c310b,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c5b6a70bc39f8154d971845f48da12fb,
+      type: 2}
